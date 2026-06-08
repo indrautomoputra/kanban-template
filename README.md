@@ -1,4 +1,4 @@
-# 🟥 IM Training — Template Kerja Tim
+# 🟥 IM PMI — Template Kerja Tim
 
 Repo ini digunakan oleh tim Information Management (IM) untuk mengelola tasking, progres kerja, output, dan dokumentasi keputusan selama latihan atau operasi respons bencana.
 
@@ -32,7 +32,6 @@ Repo ini dapat dipakai bersama **Microsoft Teams**, **SharePoint**, dan **GitHub
 ## 📁 Struktur Folder Kerja
 
 ```text
-0_Belajar Bareng/
 ├── 00_Admin/
 ├── D_Data/
 │   ├── 1_Sekunder/
